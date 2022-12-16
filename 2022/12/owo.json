@@ -288,6 +288,10 @@
     "type":"image",
     "container":[
       {
+        "text":"huaji-0",
+        "icon":"<img src='https://cdn.staticaly.com/gh/myfaverate/markdown_pic@master/2022/12/%E8%88%94%E9%9B%AA%E7%B3%95.gif'>"
+      },
+      {
         "text":"huaji-1",
         "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/huaji/huaji.gif'>"
       },
